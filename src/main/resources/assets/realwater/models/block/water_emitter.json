@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "realwater:block/water_emitter_top",
+    "side": "realwater:block/water_emitter_side"
+  }
+}
